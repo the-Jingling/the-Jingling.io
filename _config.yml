@@ -107,4 +107,4 @@ theme: stellar
 deploy:
   type: git
   repo: https://github.com/the-Jingling/the-Jingling.io.git
-  branch : master
+  branch: master
